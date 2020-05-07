@@ -8,7 +8,7 @@
 
 ## HOW TO USE
 
-##### Paste[**LifecycleCorutines.kt**](\app\src\main\java\com\dboy\lifecyclecoroutines\LifecycleCorutines.kt) Into your project。
+##### Paste[**LifecycleCorutines.kt**](app\src\main\java\com\dboy\lifecyclecoroutines\LifecycleCorutines.kt) Into your project。
 
 ##### `launch` use
 
