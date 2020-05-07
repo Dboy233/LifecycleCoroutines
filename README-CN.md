@@ -8,7 +8,7 @@
 
 ## 如何使用
 
-##### 粘贴[**LifecycleCorutines.kt**](app\src\main\java\com\dboy\lifecyclecoroutines\LifecycleCorutines.kt)到你的项目中。
+##### 粘贴[**LifecycleCorutines.kt**](https://github.com/Dboy233/LifecycleCoroutines/blob/master/app/src/main/java/com/dboy/lifecyclecoroutines/LifecycleCorutines.kt)到你的项目中。
 
 ##### `launch` 使用
 
